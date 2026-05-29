@@ -1,5 +1,7 @@
 # AWS Terraform Setup
 
+![architecture](image/apache_demo_architecture.png)
+
 This Terraform configuration deploys an AWS infrastructure with:
 
 - A private VPC using CIDR `192.168.0.0/16`
